@@ -1,0 +1,10 @@
+* cl-postgres-plus-uuid
+
+Common Lisp library providing a cl-postgres SQL reader for the PostgreSQL UUID type.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/michaeljforster/cl-postgres-plus-uuid.git   |
+| commit  | 13818cf  |
+| systems | cl-postgres-plus-uuid |
+|---------+-------------------------------------------|
+
